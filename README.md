@@ -15,13 +15,13 @@ um vetor de entrada de 8 posições.
 **Demonstração de execução:**
 
 
-*modo de teste:*
+1. *Modo de teste:*
 
 
 <img width="534" height="480" alt="image" src="https://github.com/user-attachments/assets/2a4b2daf-3543-4b02-a0d7-532e4fda64f3" />
 
 
-*input do usuário:*
+2. *Input do usuário:*
 
 
 <img width="579" height="682" alt="image" src="https://github.com/user-attachments/assets/24f57ffa-1ca9-4681-88be-05c897edf648" />
