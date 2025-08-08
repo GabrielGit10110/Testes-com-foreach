@@ -24,4 +24,5 @@ um vetor de entrada de 8 posições.
 2. *Input do usuário:*
 
 
-<img width="579" height="682" alt="image" src="https://github.com/user-attachments/assets/24f57ffa-1ca9-4681-88be-05c897edf648" />
+<img width="545" height="624" alt="image" src="https://github.com/user-attachments/assets/8e0fada2-1815-48b5-a481-aad3d97a4b9c" />
+
